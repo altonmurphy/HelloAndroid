@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Udacity</string>
+    <string name="into">Udacity is where lifelong learners come to learn the skills they need, to land the jobs they want, to build the lives they deserve.</string>
+    <string name="body"><font size="14" color='#00BCD4'><b>Our Mission</b></font> is to democratize education through the offering of world-class higher education opportunities that are accessible, flexible, and economical. Virtually anyone on the planet with an internet connection and a commitment to self-empowerment through learning can come to Udacity, master a suite of job-ready skills, and pursue rewarding employment</string>
+    <string name="jobReady">Get Job Ready with Udacity</string>
+    <string name="undacityContactInfo">Udacity\n2465 Latham St\nMountain View, CA 94043\n650-555-5555
+    </string>
+
+</resources>
